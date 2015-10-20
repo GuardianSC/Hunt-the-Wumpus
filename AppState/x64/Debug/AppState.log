@@ -1,0 +1,25 @@
+﻿Build started 10/20/2015 2:34:09 PM.
+     1>Project "E:\VS 2015\AIE Projects\Hunt the Wumpus\Hunt the Metroid\AppState\AppState.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt GameState.cpp
+         GameState.cpp
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(738): warning C4552: '-': operator has no effect; expected operator with side-effect
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(25): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(442): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(462): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(804): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(836): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(895): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(929): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(1069): warning C4101: 'EXIT': unreferenced local variable
+     1>e:\vs 2015\aie projects\hunt the wumpus\hunt the metroid\appstate\gamestate.cpp(1259): warning C4101: 'EXIT': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS 2015\AIE Projects\Hunt the Wumpus\Hunt the Metroid\x64\Debug\AppState.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\VS 2015\AIE Projects\Hunt the Wumpus\Hunt the Metroid\x64\Debug\AppState.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS 2015\AIE Projects\Hunt the Wumpus\Hunt the Metroid\x64\Debug\AppState.lib" /MACHINE:X64 x64\Debug\consts.obj
+         x64\Debug\GameState.obj
+         x64\Debug\main.obj
+         AppState.vcxproj -> E:\VS 2015\AIE Projects\Hunt the Wumpus\Hunt the Metroid\x64\Debug\AppState.exe
+     1>Done Building Project "E:\VS 2015\AIE Projects\Hunt the Wumpus\Hunt the Metroid\AppState\AppState.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.96
