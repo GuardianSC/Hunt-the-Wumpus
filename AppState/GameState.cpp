@@ -439,7 +439,7 @@ STATE GameState::update(/*float dt*/)
 						std::cout << "The missile hits the metroid, killing it!" << std::endl;
 						std::cout << "You have won!" << std::endl;
 						system("pause");
-						STATE current = EXIT;
+						STATE EXIT;
 						break;
 					case '12':
 						shoot = 12;
@@ -833,7 +833,7 @@ STATE GameState::update(/*float dt*/)
 						std::cout << "The missile hits the metroid, killing it!" << std::endl;
 						std::cout << "You have won!" << std::endl;
 						system("pause");
-						STATE current = EXIT;
+						STATE EXIT;
 						break;
 					case '13':
 						shoot = 13;
@@ -926,7 +926,7 @@ STATE GameState::update(/*float dt*/)
 						std::cout << "The missile hits the metroid, killing it!" << std::endl;
 						std::cout << "You have won!" << std::endl;
 						system("pause");
-						STATE current = EXIT;
+						STATE EXIT;
 						break;
 					case '12':
 						shoot = 12;
